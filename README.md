@@ -11,13 +11,10 @@ Fitcity is a rails based web application utilizing the Fitbit Api.
 
 #####Fitcity is an app that visualizes the activity tracked on your wearable Fitbit health tracking device. The data graphically illustrates distance traveled and floors climbed in relation to real-world landmarks. Unlike other Fitbit apps that track activity, our solution translates the number of steps taken into distance walked around the perimeter of Manhattan, or the number of flights of stairs climbed into the number of floors climbed up the Empire State Building. This gives the user a clear and motivating frame of reference for their productivity/physical activity. 
 
+![fit_city_image](./app/assets/images/readme_1.png)
+
 ####Trello Link: 
 https://trello.com/b/t1KqG1eU/ga-labs-hackaslackathon
-
-####Team memebers: 
-Rob Montrone | Product Manager | https://github.com/montrone 
-
-Shaun Burley | UX Designer		 | http://www.shaunburley.com
 
 ####Our github procedure
 
